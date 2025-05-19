@@ -26,7 +26,7 @@ This script does the following:
 - Positive words: ["good", "happy", "excellent"]
 - Negative words: ["bad", "sad", "terrible"]
 
-#Run the Script:
+# Run the Script:
 1. Prerequisites:
 - Make sure Python 3 is installed on your system.
 - No additional libraries are needed.
